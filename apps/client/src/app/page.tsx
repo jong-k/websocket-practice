@@ -10,7 +10,7 @@ import {
 
 export default function Home() {
   return (
-    <div className="flex justify-center items-center">
+    <div className="flex items-center justify-center">
       <div className="w-xl h-3xl">
         <Card>
           <CardHeader>
